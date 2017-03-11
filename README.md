@@ -1,6 +1,8 @@
 # JMatrices: #
 Es un programa escrito en java, que realiza operaciones tanto básicas como avanzadas con matrices.
 
+(https://github.com/JoelTinx/JMatrices/blob/master/preview.jpg)
+
 ## Operaciones que realiza: ##
 - Suma / resta
 - Multiplicación
